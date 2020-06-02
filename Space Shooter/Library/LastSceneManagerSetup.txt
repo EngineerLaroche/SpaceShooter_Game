@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/1_SpaceShooter/Scenes/1_MainMenu.unity
+  isLoaded: 1
+  isActive: 1
